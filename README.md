@@ -77,7 +77,7 @@ The dataset used contains **1,262,329 rows** of real crude oil price data, which
 
 ## 🛠️ Installing all libraries with a single command
 
-To install all packages, download the `requirements.txt` file run:
+To install all packages, download the `requirements.txt` file and run:
 
 ```bash
 $ pip install -r requirements.txt
