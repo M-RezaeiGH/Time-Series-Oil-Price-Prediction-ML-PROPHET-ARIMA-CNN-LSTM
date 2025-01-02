@@ -77,7 +77,7 @@ The dataset used contains **1,262,329 rows** of real crude oil price data, which
 
 ## 🛠️ Installing all libraries with a single command
 
-To install all packages, download the `requirements.txt` file from [this link](https://github.com/M-RezaeiGH/M-RezaeiGH-Time-Series-Oil-Price-Prediction-ML-PROPHET-ARIMA-CNN-LSTM/blob/main/README.md) and run:
+To install all packages, download the `requirements.txt` file run:
 
 ```bash
 $ pip install -r requirements.txt
